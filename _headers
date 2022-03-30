@@ -8,4 +8,3 @@
   Content-Security-Policy: default-src 'self'; script-src 'sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw==' 'sha512-Nh/FthCqOFq56kGp1DsNb6GKK29iIv2ZJc7Fylln1WRrWpeE5LjSBWeAp61dkBASDxZT12aL9mZyIrhsAqgRpw=='; style-src 'sha256-67FhHzYJozrajGNm9TMKoW/gPMpkPW+kkVvuKJzB7XY=';
   Access-Control-Allow-Origin: https://maintenance.feeby.pl
   Vary: Origin
-  Status: '503 Service Temporarily Unavailable',
