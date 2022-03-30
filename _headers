@@ -1,6 +1,6 @@
 /
   X-Robots-Tag: noindex
   cache-control: max-age=0,no-cache,no-store,must-revalidate
-  Content-Security-Policy: default-src 'self'
+  Content-Security-Policy: default-src 'self' script-src 'sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw=='
   X-Frame-Options: SAMEORIGIN
   Permissions-Policy: accelerometer=(self), autoplay=(self), camera=(self), encrypted-media=(self), fullscreen=(self), geolocation=(self), gyroscope=(self), magnetometer=(self), microphone=(self), midi=(self), payment=(self), picture-in-picture=(*), sync-xhr=(*), usb=(self)
